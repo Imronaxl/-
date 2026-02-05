@@ -22,7 +22,7 @@
 mvn clean package -DskipTests
 ```
 
-### Запуск
+### Запуск (или сразу скачать по ссылке и запустить файл .jar  https://disk.yandex.ru/d/M-aqe3zaDTkBzg)
 
 ```bash
 java -jar target/supply-management-1.0.0.jar
