@@ -16,7 +16,7 @@
 - Java 17+
 - Maven 3.8+
 
-### Сборка (или сразу скачать по ссылке и запустить файл .jar  https://disk.yandex.ru/d/M-aqe3zaDTkBzg)
+### Сборка (или сразу скачать по ссылке файл .jar и запустить файл .jar  https://disk.yandex.ru/d/M-aqe3zaDTkBzg)
 
 ```bash
 mvn clean package -DskipTests
