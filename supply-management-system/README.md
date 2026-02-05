@@ -16,13 +16,13 @@
 - Java 17+
 - Maven 3.8+
 
-### Сборка
+### Сборка (или сразу скачать по ссылке и запустить файл .jar  https://disk.yandex.ru/d/M-aqe3zaDTkBzg)
 
 ```bash
 mvn clean package -DskipTests
 ```
 
-### Запуск (или сразу скачать по ссылке и запустить файл .jar  https://disk.yandex.ru/d/M-aqe3zaDTkBzg)
+### Запуск
 
 ```bash
 java -jar target/supply-management-1.0.0.jar
