@@ -10,7 +10,7 @@
 - **Swagger UI** для тестирования API
 - **Maven** для сборки проекта
 
-## 🚀 Быстрый старт
+## Быстрый старт
 
 ### Требования
 - Java 17+
@@ -49,13 +49,13 @@ java -jar target/supply-management-1.0.0.jar
 - `POST /api/reports/deliveries` - сформировать отчет
 - `GET /api/reports/deliveries/quick` - отчет за текущий месяц
 
-## 🔗 Полезные ссылки
+##  Полезные ссылки
 
 - **Swagger UI**: http://localhost:8080/api/swagger-ui.html
 - **H2 Console**: http://localhost:8080/api/h2-console
 - **Health**: http://localhost:8080/api/actuator/health
 
-## 📁 Структура проекта
+##  Структура проекта
 
 ```
 src/main/java/com/supply/
@@ -105,7 +105,7 @@ src/main/java/com/supply/
 └── SupplyApplication.java  # Main класс
 ```
 
-## 💡 Примеры использования
+##  Примеры использования
 
 ### Создать поставку
 
@@ -159,7 +159,7 @@ pkill -f "java -jar target/supply-management"
 
 или используйте `Ctrl+C` в терминале
 
-## 🏗️ Архитектура
+##  Архитектура
 
 ```
 REST Controller
